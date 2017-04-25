@@ -2,11 +2,11 @@
 
 #### Allgemeine Daten
 
-**Name:			** 	Mueller
+**Name:**           Mueller
 
-**Vorname:**		Heinz
+**Vorname:**        Heinz
 
-**Adresse:**		Hauptstrasse 123
+**Adresse:**        Hauptstrasse 123
 
 **Wohnort:**		78767 Emstedt
 
