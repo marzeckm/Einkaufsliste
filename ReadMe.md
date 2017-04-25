@@ -2,6 +2,8 @@
 
 #### Allgemeine Daten
 
+![Bild von mir](https://github.com/marzeckm/Einkaufsliste/blob/Maxis-Branch/handsome-1342457_640.jpg "Heinz Mueller")
+
 **Name:** 			Mueller
 
 **Vorname:** 		Heinz
